@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android60.roj5bmr111.android60">
+    
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.DarkActionBar">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/main_activity_title">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ShowAlbumActivity"
+            android:label="@string/album_activity">
+        </activity>
+        <activity
+            android:name=".PhotoSlideShowActivity"
+            android:label="@string/slideShow_title">
+        </activity>
+        <activity
+            android:name=".PhotoTagActivity"
+            android:label="@string/add_tag_title">
+        </activity>
+        <activity
+            android:name=".SearchPhotosActivity"
+            android:label="@string/search_photos_action_bar_label">
+        </activity>
+    </application>
+
+</manifest>

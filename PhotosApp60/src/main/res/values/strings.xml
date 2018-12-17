@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Android60</string>
+    <string name="menu_action_addAlbum">Add Album</string>
+    <string name="album_activity">Album\'s Photos</string>
+    <string name="main_activity_title">Photos60</string>
+    <string name="menu_action_AddPhoto">Add Photo</string>
+    <string name="delete_photo">Delete</string>
+    <string name="move_photo">Move photo</string>
+    <string name="menu_action_add_tag">Add Tag</string>
+    <string name="type_location">Location:</string>
+    <string name="location_tag">Tag Type: Location</string>
+    <string name="person_tag">Tag Type: Person</string>
+    <string name="confirm_label_button">Confirm</string>
+    <string name="cancel_label_button">Cancel</string>
+    <string name="slideShow_title">Photos Slideshow</string>
+    <string name="add_tag_title">Add Tag</string>
+    <string name="content_description_photo_pager">View the image in full view</string>
+    <string name="location_hint_search">RU, Mars</string>
+    <string name="person_hint_search">Roy, Brenda</string>
+    <string name="and_button_label">AND</string>
+    <string name="or_button_label">OR</string>
+    <string name="menu_action_search_photos">Search Photos</string>
+    <string name="search_photos_action_bar_label">Search Photos</string>
+    <string name="sesh_hint_person">Sesh</string>
+    <string name="ru_hint_location">RU</string>
+
+</resources>
