@@ -6,6 +6,7 @@ import java.io.Serializable;
 import java.util.ArrayList;
 
 //@SuppressWarnings("serial")
+//Warn people here
 public class Album implements Serializable{
 
 
